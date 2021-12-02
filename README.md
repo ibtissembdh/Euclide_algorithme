@@ -1,2 +1,2 @@
-# Euclide_algorithme
+# Euclide_algorithm
 PGCD calculator
